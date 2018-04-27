@@ -1,0 +1,1 @@
+# Typy-17_boardgame
