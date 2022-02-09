@@ -19,4 +19,19 @@
     <th>总hp</th>
     <th>1x5=5</th>
   </tr>
+  <tr>
+    <td rowspan="2">突击步枪</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
