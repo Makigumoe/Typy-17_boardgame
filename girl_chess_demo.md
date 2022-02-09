@@ -8,30 +8,17 @@
 
 ## 范例卡
 
-### 大头兵
-
-<tabel>
+<table>
   <tr>
-    <th>hp</th>
-    <th>1</th>
+    <th colspan=6 align="center">大头兵</th>
+  </tr>
+  <tr>
+    <th>HP</th>
+    <td>1</td>
     <th>人数</th>
-    <th>5</th>
-    <th>总hp</th>
-    <th>1x5=5</th>
+    <td>5</td>
+    <th>总HP</th>
+    <td>1x5=5</td>
   </tr>
-  <tr>
-    <td rowspan="2">突击步枪</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+
 </table>
