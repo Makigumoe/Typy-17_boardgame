@@ -21,6 +21,28 @@
     <td>1x5=5</td>
   </tr>
   <tr>
+    <th colspan=3 align="center">移动能力</th>
+    <th colspan=3 align="center">2</th>
+  </tr>
+  <tr>
+    <th>地形等级</th>
+    <td>-2</td>
+    <td>-1</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <th>移动消耗</th>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>*</td>
+  </tr>
+  <tr>
     <th colspan=6 align="center">基础武器</th>
   </tr>
   <tr>
