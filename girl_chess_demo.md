@@ -81,6 +81,16 @@
     <td>无</td>
     <td>1</td>
   </tr>
+  <tr>
+    <td>反坦克步枪</td>
+    <td>1</td>
+    <td>8</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>无</td>
+    <td>2</td>
+  </tr>
 </table>
 
 
@@ -90,11 +100,11 @@
   </tr>
   <tr>
     <th>HP</th>
-    <td>3</td>
+    <td>2</td>
     <th>人数</th>
     <td>3</td>
     <th>总HP</th>
-    <td>3x3=9</td>
+    <td>2x3=6</td>
     <th>移动力</th>
     <td>2</td>
   </tr>
@@ -102,7 +112,7 @@
     <th>护甲</th>
     <td>4</td>
     <th>单人分值</th>
-    <td>15</td>
+    <td>10</td>
     <th></th>
     <td></td>
     <th></th>
@@ -143,12 +153,12 @@
     <th>分值</th>
   </tr>
   <tr>
-    <td>17mm大口径突击步枪</td>
+    <td>穿甲榴弹步枪</td>
     <td>2</td>
     <td>6</td>
     <td>0</td>
     <td>1</td>
-    <td>2</td>
+    <td>1</td>
     <td>无</td>
     <td>3</td>
   </tr>
