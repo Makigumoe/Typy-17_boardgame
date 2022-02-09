@@ -33,7 +33,7 @@
     <td>5</td>
     <th></th>
     <td></td>
-    <th>/th>
+    <th></th>
     <td></td>
   </tr>
   <tr>
