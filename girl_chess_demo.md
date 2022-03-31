@@ -12,7 +12,7 @@
 
 #### 基本属性
 
-Hit point，HP：承受伤害的能力。当HP为0时，步兵阵亡。
+Hit Point，HP：承受伤害的能力。当HP为0时，步兵阵亡。
 
 Movement，M：移动能力，是一次移动中能消耗的最大移动点数。
 
@@ -26,11 +26,21 @@ Awareness，AW：态势感知能力，对战场态势更敏锐的人可以先发
 
 Optical Reconnaissance，OR：光学侦察能力。
 
+Optical Signature，OS：光学特征，受光学侦查时的易暴露程度。
+
 Electrical Reconnaissance，ER：电子侦察能力。
 
 Electromagnetic Signature，ES：电磁特征，受电子侦察时的易暴露程度。
 
 Terrain Adaptation，TA：地形适应性，详细给出在各类地形上移动所消耗的移动点数。
+
+#### 其他属性
+
+Action Point，AP：行动点，用于主动回合中执行行动。
+
+Reaction Point，RP：反应点，用于非主动回合中执行反应。
+
+####
 
 ## 战斗流程
 
