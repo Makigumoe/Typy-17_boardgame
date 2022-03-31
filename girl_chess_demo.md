@@ -30,6 +30,8 @@ Electrical Reconnaissance，ER：电子侦察能力。
 
 Electromagnetic Signature，ES：电磁特征，受电子侦察时的易暴露程度。
 
+Terrain Adaptation，TA：地形适应性，详细给出在各类地形上移动所消耗的移动点数。
+
 ## 战斗流程
 
 ### 伤害结算
