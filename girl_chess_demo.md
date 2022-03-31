@@ -22,9 +22,13 @@ Ranged Combat，RC：远距离战斗能力，描述了步兵射击远程武器�
 
 Close Combat，CC：近距离战斗能力，描述了步兵近距离格斗的能力。
 
-Awareness，AW：态势感知能力，对战场态势更敏锐的人可以先发制敌。
+Awareness，AW：态势感知能力，对战场态势更敏锐的人可以先发制敌，也可以更好的进行战场通信。
 
+Optical Reconnaissance，OR：光学侦察能力。
 
+Electrical Reconnaissance，ER：电子侦察能力。
+
+Electromagnetic Signature，ES：电磁特征，受电子侦察时的易暴露程度。
 
 ## 战斗流程
 
