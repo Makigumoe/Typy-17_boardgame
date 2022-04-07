@@ -34,8 +34,6 @@ Electromagnetic Signature，ES：电磁特征，受电子侦察时的易暴露�
 
 Terrain Adaptation，TA：地形适应性，详细给出在各类地形上移动所消耗的移动点数。
 
-Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程度，在战斗开始时初始情报值为0。
-
 Points，Pt：分值，组建军表时用总分值来限制上场的单位数量。
 
 #### 1.1.2 其他属性
@@ -49,6 +47,8 @@ Special Weapon Slots，SPS：特武槽位，决定了最大能携带多少特武
 Tactical Accessory Slots，TAS：战术道具槽位，决定了最大能携带多少战术道具。
 
 Squad Organization，SO：单位编制，描述了单位最多能包含多少步兵。单位中步兵的总HP不能超过SO。
+
+Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程度，在战斗开始时初始情报值为0。
 
 #### 1.1.3 选配装备
 
@@ -65,6 +65,7 @@ Squad Organization，SO：单位编制，描述了单位最多能包含多少步
 * M，ARM取各步兵中的最低值。
 * AW，OR，OS，ER，ES，TA取各步兵中的最高值。
 * HP，RC，CC依旧保留。也就是说，在结算攻击命中时，各步兵用他们自己的RC/CC作为判定根据。在结算步兵阵亡时，不同步兵的HP也分别结算。
+* 对各步兵的Pt求和，得出单位的Pt。
 
 当单位中存在属性不一致的步兵时，随着单位承受伤亡，属性也可能发生相应变化。因此推荐用属性一直的步兵组成单位。
 
