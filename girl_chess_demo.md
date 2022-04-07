@@ -81,6 +81,103 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 #### 1.1.6 步兵单位示例
 
+<table>
+  <tr>
+    <th colspan=8 align="center">战术人形小队（M4A1）</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>HP</th>
+    <th>M</th>
+    <th>ARM</th>
+    <th>RC</th>
+    <th>CC</th>
+    <th>AW</th>
+  </tr>
+  <tr>
+    <th>M4A1</th>
+    <th>3</th>
+    <th>2</th>
+    <th>2</th>
+    <th>14</th>
+    <th>8</th>
+    <th>12</th>
+  </tr>
+  <tr>
+    <th>战术人形</th>
+    <th>2</th>
+    <th>2</th>
+    <th>2</th>
+    <th>14</th>
+    <th>8</th>
+    <th>12</th>
+  </tr>
+  <tr>
+    <th>护甲</th>
+    <td>2</td>
+    <th>单人分值</th>
+    <td>5</td>
+    <th></th>
+    <td></td>
+    <th></th>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan=8 align="center">地形适应性</th>
+  </tr>
+  <tr>
+    <th>地形等级</th>
+    <td>-2</td>
+    <td>-1</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td colspan=2>4</td>
+  </tr>
+  <tr>
+    <th>移动消耗</th>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td colspan=2>*</td>
+  </tr>
+  <tr>
+    <th colspan=8 align="center">基础武器</th>
+  </tr>
+  <tr>
+    <th>武器名称</th>
+    <th>射击数</th>
+    <th>射程</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊</th>
+    <th>分值</th>
+  </tr>
+  <tr>
+    <td>突击步枪</td>
+    <td>2</td>
+    <td>6</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>无</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>反坦克步枪</td>
+    <td>1</td>
+    <td>8</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>无</td>
+    <td>2</td>
+  </tr>
+</table>
+
 ### 1.2 载具
 
 将坐骑，车辆，飞行器等等可以搭载步兵的统称为载具。除了坐骑，载具是很难被彻底消灭的，但却可以用多种方法降低载具的作战能力。因此，结算载具所受损伤的方式与步兵有很大差距。
