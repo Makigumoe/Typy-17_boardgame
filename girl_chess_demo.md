@@ -83,7 +83,10 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 <table>
   <tr>
-    <th colspan=8 align="center">战术人形小队（M4A1）</th>
+    <th colspan=7 align="center">战术人形小队（M4A1）</th>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">步兵基础属性</th>
   </tr>
   <tr>
     <th></th>
@@ -95,31 +98,48 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>AW</th>
   </tr>
   <tr>
-    <th>M4A1</th>
-    <th>3</th>
-    <th>2</th>
-    <th>2</th>
-    <th>14</th>
-    <th>8</th>
-    <th>12</th>
-  </tr>
-  <tr>
-    <th>战术人形</th>
-    <th>2</th>
-    <th>2</th>
-    <th>2</th>
-    <th>14</th>
-    <th>8</th>
-    <th>12</th>
-  </tr>
-  <tr>
-    <th>护甲</th>
+    <td>M4A1</td>
+    <td>3</td>
     <td>2</td>
-    <th>单人分值</th>
-    <td>5</td>
+    <td>2</td>
+    <td>14</td>
+    <td>8</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>战术人形</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>14</td>
+    <td>8</td>
+    <td>12</td>
+  </tr>
+  <tr>
     <th></th>
+    <th>OR</th>
+    <th>OS</th>
+    <th>ER</th>
+    <th>ES</th>
+    <th>Pt</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>M4A1</td>
+    <td>4</td>
+    <td>2</td>
+    <td>6</td>
+    <td>4</td>
+    <td>20</td>
     <td></td>
-    <th></th>
+  </tr>
+  <tr>
+    <td>战术人形</td>
+    <td>4</td>
+    <td>2</td>
+    <td>6</td>
+    <td>4</td>
+    <td>16</td>
     <td></td>
   </tr>
   <tr>
