@@ -127,28 +127,28 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td></td>
   </tr>
   <tr>
-    <th colspan=8 align="center">地形适应性</th>
+    <th colspan=8 align="center">TA</th>
   </tr>
   <tr>
-    <th>地形等级</th>
+    <th>TL</th>
     <td>-2</td>
     <td>-1</td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
-    <td colspan=2>4</td>
+    <td colspan=1>4</td>
   </tr>
   <tr>
-    <th>移动消耗</th>
+    <th>Cost</th>
     <td>2</td>
     <td>2</td>
     <td>1</td>
     <td>1</td>
     <td>1</td>
-    <td colspan=2>*</td>
+    <td colspan=1>*</td>
   </tr>
   <tr>
-    <th colspan=8 align="center">基础武器</th>
+    <th colspan=7 align="center">基础武器</th>
   </tr>
   <tr>
     <th>武器名称</th>
@@ -158,7 +158,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>击穿伤害</th>
     <th>后效伤害</th>
     <th>特殊</th>
-    <th>分值</th>
   </tr>
   <tr>
     <td>突击步枪</td>
@@ -168,17 +167,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td>1</td>
     <td>0</td>
     <td>无</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>反坦克步枪</td>
-    <td>1</td>
-    <td>8</td>
-    <td>2</td>
-    <td>1</td>
-    <td>1</td>
-    <td>无</td>
-    <td>2</td>
   </tr>
 </table>
 
