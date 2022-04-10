@@ -86,6 +86,10 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th colspan=7 align="center">战术人形小队（M4A1）</th>
   </tr>
   <tr>
+    <th>HP</th>
+    <td colspan=7 align="center">○○○|○○|○○|○○|○○</th>
+  </tr>
+  <tr>
     <th colspan=7 align="center">步兵基础属性</th>
   </tr>
   <tr>
