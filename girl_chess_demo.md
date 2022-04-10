@@ -87,8 +87,32 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>?? Pt</th>
   </tr>
   <tr>
+    <th colspan=7 align="center">战斗属性</th>
+  </tr>
+  <tr>
+    <th>AP</th>
+    <th>TAP</th>
+    <th>SPS</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1</td>
+    <td></td>
+    <td>/td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <th>HP</th>
     <td colspan=6 align="center">○○○|○○|○○|○○|○○</th>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">基础属性</th>
   </tr>
   <tr>
     <th>M</th>
