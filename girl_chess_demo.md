@@ -83,23 +83,12 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 <table>
   <tr>
-    <th colspan=7 align="center">战术人形小队（M4A1）</th>
+    <th colspan=6 align="center">战术人形小队（M4A1）</th>
+    <th>?? Pt</th>
   </tr>
   <tr>
     <th>HP</th>
     <td colspan=6 align="center">○○○|○○|○○|○○|○○</th>
-  </tr>
-  <tr>
-    <th></th>
-    <th>HP</th>
-    <th>M</th>
-    <th>ARM</th>
-    <th>RC</th>
-    <th>CC</th>
-    <th>AW</th>
-  </tr>
-  <tr>
-    <th colspan=7 align="center">步兵基础属性</th>
   </tr>
   <tr>
     <th>M</th>
@@ -122,7 +111,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   <tr>
     <th>ER</th>
     <th>ES</th>
-    <th>Pt</th>
+    <th></th>
     <th></th>
     <th></th>
     <th></th>
@@ -131,7 +120,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   <tr>
     <td>6</td>
     <td>4</td>
-    <td>20</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
