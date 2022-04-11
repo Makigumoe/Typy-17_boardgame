@@ -91,21 +91,9 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   </tr>
   <tr>
     <th>AP</th>
-    <th>TAP</th>
-    <th>SPS</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>1</td>
-    <td></td>
-    <td>/td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan=3>○○</td>
+    <th>RP</th>
+    <td colspan=2>○</td>
   </tr>
   <tr>
     <th>HP</th>
@@ -151,7 +139,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td></td>
   </tr>
   <tr>
-    <th colspan=8 align="center">TA</th>
+    <th colspan=7 align="center">TA</th>
   </tr>
   <tr>
     <th>TL</th>
@@ -175,22 +163,43 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th colspan=7 align="center">基础武器</th>
   </tr>
   <tr>
-    <th>武器名称</th>
-    <th>射击数</th>
-    <th>射程</th>
+    <td rowspan=5>突击步枪</td>
+    <th>攻击数</th>
+    <th>数量</th>
     <th>穿甲</th>
     <th>击穿伤害</th>
     <th>后效伤害</th>
-    <th>特殊</th>
+    <th>特殊规则</th>
   </tr>
   <tr>
-    <td>突击步枪</td>
     <td>2</td>
-    <td>6</td>
+    <td>5</td>
     <td>0</td>
     <td>1</td>
     <td>0</td>
     <td>无</td>
+  </tr>
+  <tr>
+    <th colspan=6 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0</th>
+    <th>1~4</th>
+    <th>5</th>
+    <th>6</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">-5</td>
+    <td align="center">0</td>
+    <td align="center">-1</td>
+    <td align="center">-3</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">特殊武器</th>
   </tr>
 </table>
 
