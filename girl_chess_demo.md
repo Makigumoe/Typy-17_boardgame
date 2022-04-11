@@ -84,41 +84,39 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 <table>
   <tr>
     <th colspan=6 align="center">战术人形小队（M4A1）</th>
-    <th>?? Pt</th>
+    <th>134 Pt</th>
   </tr>
   <tr>
     <th colspan=7 align="center">战斗属性</th>
   </tr>
   <tr>
-    <th>AP</th>
-    <td colspan=3>○○</td>
-    <th>RP</th>
-    <td colspan=2>○</td>
-  </tr>
-  <tr>
     <th>HP</th>
-    <td colspan=6 align="center">○○○|○○|○○|○○|○○</th>
+    <td colspan=2>○○○|○○|○○|○○|○○</th>
+    <th>AP</th>
+    <td colspan=1>○○</td>
+    <th>RP</th>
+    <td colspan=1>○</td>
   </tr>
   <tr>
     <th colspan=7 align="center">基础属性</th>
   </tr>
   <tr>
-    <th>M</th>
-    <th>ARM</th>
-    <th>RC</th>
-    <th>CC</th>
-    <th>AW</th>
-    <th>OR</th>
-    <th>OS</th>
+    <th width="120">M</th>
+    <th width="120">ARM</th>
+    <th width="120">RC</th>
+    <th width="120">CC</th>
+    <th width="120">AW</th>
+    <th width="120">OR</th>
+    <th width="120">OS</th>
   </tr>
   <tr>
-    <td>2</td>
-    <td>2</td>
-    <td>14</td>
-    <td>8</td>
-    <td>12</td>
-    <td>4</td>
-    <td>2</td>
+    <td align="center">2</td>
+    <td align="center">2</td>
+    <td align="center">14</td>
+    <td align="center">8</td>
+    <td align="center">12</td>
+    <td align="center">4</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <th>ER</th>
@@ -130,34 +128,34 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>Intel</th>
   </tr>
   <tr>
-    <td>6</td>
-    <td>4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>8</td>
-    <td>0</td>
+    <td align="center">6</td>
+    <td align="center">4</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">8</td>
+    <td align="center">0</td>
   </tr>
   <tr>
     <th colspan=7 align="center">TA</th>
   </tr>
   <tr>
     <th>TL</th>
-    <td>-2</td>
-    <td>-1</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td colspan=1>4</td>
+    <td align="center">-2</td>
+    <td align="center">-1</td>
+    <td align="center">1</td>
+    <td align="center">2</td>
+    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <th>Cost</th>
-    <td>2</td>
-    <td>2</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td colspan=1>*</td>
+    <td align="center">2</td>
+    <td align="center">2</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">*</td>
   </tr>
   <tr>
     <th colspan=7 align="center">基础武器</th>
@@ -172,11 +170,11 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>特殊规则</th>
   </tr>
   <tr>
-    <td>2</td>
-    <td>5</td>
-    <td>0</td>
-    <td>1</td>
-    <td>0</td>
+    <td align="center">2</td>
+    <td align="center">5</td>
+    <td align="center">0</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
     <td>无</td>
   </tr>
   <tr>
@@ -211,11 +209,11 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>特殊规则</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-    <td>0</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
     <td>高爆（小）</td>
   </tr>
   <tr>
@@ -252,7 +250,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
         *防弹插板（4Pt一人，20Pt） 令ARM提升为2。<br>
         <br>
         <b>战术道具</b> TAS 3/5<br>
-        *电子战特化系统（20Pt） ER提升为6，ES+1。<br>
+        *电子战特化系统（20Pt） ER提升为6，ES+2。<br>
         *红点瞄准镜（10Pt） 基础武器在2~3距离进行射击时，命中修正额外+1。<br>
         *APCR弹（15Pt） 基础武器在进行击穿判定时，骰两次取高。<br>
         <br>
