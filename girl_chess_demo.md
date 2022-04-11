@@ -199,7 +199,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center"></td>
   </tr>
   <tr>
-    <th colspan=7 align="center">特殊武器 SPS 1/5</th>
+    <td colspan=7 align="center"><b>特殊武器</b> SPS 1/5</td>
   </tr>
   <tr>
     <td rowspan=5>榴弹发射器</td>
@@ -243,7 +243,20 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   <tr>
     <td colspan=7>
         战术人形小队由M4A1（基础12Pt）和4名战术人形（基础8Pt一人，32Pt）组成。<br>
-        护具采用防弹插板（4Pt一人，20Pt），令ARM提升为2。<br>
+        <br>
+        <b>战斗训练</b><br>
+        *高级射击训练（3Pt一人，15Pt） RC+6。<br>
+        *中级目视侦察训练（2Pt一人，10Pt） OR提升为4。<br>
+        <br>
+        <b>护具</b><br>
+        *防弹插板（4Pt一人，20Pt） 令ARM提升为2。<br>
+        <br>
+        <b>战术道具</b> TAS 3/5<br>
+        *电子战特化系统（20Pt） ER提升为6，ES+1。<br>
+        *红点瞄准镜（10Pt） 基础武器在2~3距离进行射击时，命中修正额外+1。<br>
+        *APCR弹（15Pt） 基础武器在进行击穿判定时，骰两次取高。<br>
+        <br>
+        由M4A1带领的战术人形小队。
     </td>
   </tr>
 </table>
