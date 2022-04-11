@@ -84,7 +84,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 <table>
   <tr>
     <th colspan=6 align="center">战术人形小队（M4A1）</th>
-    <th>134 Pt</th>
+    <th>149 Pt</th>
   </tr>
   <tr>
     <th colspan=7 align="center">战斗属性</th>
@@ -209,7 +209,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>特殊规则</th>
   </tr>
   <tr>
-    <td align="center">1</td>
+    <td align="center">2</td>
     <td align="center">1</td>
     <td align="center">0</td>
     <td align="center">1</td>
@@ -240,7 +240,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   </tr>
   <tr>
     <td colspan=7>
-        战术人形小队由M4A1（基础12Pt）和4名战术人形（基础8Pt一人，32Pt）组成。<br>
+        战术人形小队由M4A1（基础12Pt）和4名战术人形（基础8Pt一人，32Pt）组成。装备了5把突击步枪（2Pt一把，10Pt）和1把榴弹发射器（5Pt）。<br>
         <br>
         <b>战斗训练</b><br>
         *高级射击训练（3Pt一人，15Pt） RC+6。<br>
