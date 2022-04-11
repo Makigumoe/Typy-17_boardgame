@@ -42,7 +42,7 @@ Action Point，AP：行动点，用于主动回合中执行行动。在单位的
 
 Reaction Point，RP：反应点，用于非主动回合中执行反应。在单位的回合开始时，除非有特殊说明，RP回复到1。
 
-Special Weapon Slots，SPS：特武槽位，决定了最大能携带多少特武。
+Special Weapon Slots，SWS：特武槽位，决定了最大能携带多少特武。
 
 Tactical Accessory Slots，TAS：战术道具槽位，决定了最大能携带多少战术道具。
 
@@ -69,9 +69,9 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 当单位中存在属性不一致的步兵时，随着单位承受伤亡，属性也可能发生相应变化。因此推荐用属性一直的步兵组成单位。
 
-此外，单位具有两项属性：SPS和TAS。单位中每存在一个步兵，就获得1SPS和2TAS。因此当单位承受伤亡，SPS和TAS也随之下降。如果单位携带的特殊武器或战术道具超过了SPS和TAS的限制，那么就必须丢弃掉一部分，从而满足限制。控制承受伤亡单位的玩家选择丢弃掉哪些特殊武器或战术道具。
+此外，单位具有两项属性：SWS和TAS。单位中每存在一个步兵，就获得1SWS和2TAS。因此当单位承受伤亡，SWS和TAS也随之下降。如果单位携带的特殊武器或战术道具超过了SWS和TAS的限制，那么就必须丢弃掉一部分，从而满足限制。控制承受伤亡单位的玩家选择丢弃掉哪些特殊武器或战术道具。
 
-举例：由3名改造人类组成的单位装备3把电浆步枪，总点数为3，SPS也刚好为3，满足限制。在随后战斗中，一名改造人类阵亡，SPS随之降低为2，必须将特殊武器总点数降低到2以下，因此丢弃1把电浆步枪。
+举例：由3名改造人类组成的单位装备3把电浆步枪，总点数为3，SWS也刚好为3，满足限制。在随后战斗中，一名改造人类阵亡，SWS随之降低为2，必须将特殊武器总点数降低到2以下，因此丢弃1把电浆步枪。
 
 #### 1.1.5 英雄人物
 
@@ -126,8 +126,8 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
-    <th></th>
+    <th>SO/LD</th>
+    <th>Intel</th>
   </tr>
   <tr>
     <td>6</td>
@@ -135,8 +135,8 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>8</td>
+    <td>0</td>
   </tr>
   <tr>
     <th colspan=7 align="center">TA</th>
@@ -199,7 +199,52 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center"></td>
   </tr>
   <tr>
-    <th colspan=7 align="center">特殊武器</th>
+    <th colspan=7 align="center">特殊武器 SPS 1/5</th>
+  </tr>
+  <tr>
+    <td rowspan=5>榴弹发射器</td>
+    <th>攻击数</th>
+    <th>数量</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊规则</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>
+    <td>高爆（小）</td>
+  </tr>
+  <tr>
+    <th colspan=6 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0</th>
+    <th>1~3</th>
+    <th>4</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">-5</td>
+    <td align="center">+2</td>
+    <td align="center">0</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">描述</th>
+  </tr>
+  <tr>
+    <td colspan=7>
+        战术人形小队由M4A1（基础12Pt）和4名战术人形（基础8Pt一人，32Pt）组成。<br>
+        护具采用防弹插板（4Pt一人，20Pt），令ARM提升为2。<br>
+    </td>
   </tr>
 </table>
 
