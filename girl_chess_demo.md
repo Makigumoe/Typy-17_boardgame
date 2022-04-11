@@ -175,7 +175,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">0</td>
     <td align="center">1</td>
     <td align="center">0</td>
-    <td>无</td>
+    <td align="center">无</td>
   </tr>
   <tr>
     <th colspan=6 align="center">距离命中修正</th>
@@ -214,7 +214,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">0</td>
     <td align="center">1</td>
     <td align="center">0</td>
-    <td>高爆（小）</td>
+    <td align="center">高爆（小）</td>
   </tr>
   <tr>
     <th colspan=6 align="center">距离命中修正</th>
