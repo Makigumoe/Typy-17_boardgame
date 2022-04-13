@@ -317,7 +317,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 <p align="center">
     <br>
-    <img src="https://github.com/Makigumoe/Typy-17_boardgame/blob/master/%E5%85%AD%E8%BE%B9%E5%BD%A2%E8%A7%86%E7%BA%BF.png" width="650"/>
+    <img src="https://github.com/Makigumoe/Typy-17_boardgame/blob/master/hex_LOS.png" width="650"/>
     <br>
     图2-1 六边形格子视线成立图
 <p>
