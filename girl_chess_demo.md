@@ -431,7 +431,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 <table>
   <tr>
     <th>攻击数</th>
-    <th>数量</th>
     <th>穿甲</th>
     <th>击穿伤害</th>
     <th>后效伤害</th>
@@ -440,7 +439,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">5</td>
     <td align="center">0</td>
     <td align="center">1</td>
     <td align="center">0</td>
@@ -448,7 +446,7 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">2</td>
   </tr>
   <tr>
-    <th colspan=7 align="center">距离命中修正</th>
+    <th colspan=6 align="center">距离命中修正</th>
   </tr>
   <tr>
     <th>距离</th>
@@ -457,7 +455,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <th>3</th>
     <th>4</th>
     <th></th>
-    <th></th>
   </tr>
   <tr>
     <td align="center">命中修正</td>
@@ -465,7 +462,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">0</td>
     <td align="center">-1</td>
     <td align="center">-3</td>
-    <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
@@ -477,7 +473,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 <table>
   <tr>
     <th>攻击数</th>
-    <th>数量</th>
     <th>穿甲</th>
     <th>击穿伤害</th>
     <th>后效伤害</th>
@@ -486,7 +481,6 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">5</td>
     <td align="center">0</td>
     <td align="center">1</td>
     <td align="center">0</td>
@@ -494,14 +488,13 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">3</td>
   </tr>
   <tr>
-    <th colspan=7 align="center">距离命中修正</th>
+    <th colspan=6 align="center">距离命中修正</th>
   </tr>
   <tr>
     <th>距离</th>
     <th>0</th>
     <th>1~2</th>
     <th>3~4</th>
-    <th></th>
     <th></th>
     <th></th>
   </tr>
@@ -512,11 +505,52 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
     <td align="center">-1</td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
 
 *激光步枪是一种被军队、雇佣兵、商人、旅行者广泛采用的枪械，其保有了廉价常见的特性外，由于依靠热能进行杀伤而不是发射实弹，激光步枪有着备受赞誉的无后坐力优势，未经训练的平民也能具备较好的远距离射击精度。*
+
+**爆弹步枪**
+
+<table>
+  <tr>
+    <th>攻击数</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊规则</th>
+    <th>分值/每把</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
+    <td align="center">无</td>
+    <td align="center">6</td>
+  </tr>
+  <tr>
+    <th colspan=6 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0</th>
+    <th>1~2</th>
+    <th>3</th>
+    <th>4</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">-6</td>
+    <td align="center">-1</td>
+    <td align="center">-2</td>
+    <td align="center">-4</td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+*爆弹步枪是一种设计用来高效杀死重型护甲的改造人类的武器。其发射的弹头采用了穿甲高爆原理，击穿盔甲后定时印信引发弹头内的装药，引发一场小型爆炸，一发便足以杀死这些身高近三米的重甲战士。鉴于其威力，巨大后坐力导致的精度下降则是不痛不痒的缺点了。*
 
 #### 3.1.3 特殊武器
 
