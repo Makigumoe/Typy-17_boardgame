@@ -426,6 +426,98 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 #### 3.1.2 普通武器
 
+**突击步枪**
+
+<table>
+  <tr>
+    <th>攻击数</th>
+    <th>数量</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊规则</th>
+    <th>分值/每把</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">5</td>
+    <td align="center">0</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
+    <td align="center">无</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0</th>
+    <th>1~2</th>
+    <th>3</th>
+    <th>4</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">-5</td>
+    <td align="center">0</td>
+    <td align="center">-1</td>
+    <td align="center">-3</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+*一种非常常见的武器，工艺简单，造价低廉，威力也足以杀死大部分的步兵目标。*
+
+**激光步枪**
+
+<table>
+  <tr>
+    <th>攻击数</th>
+    <th>数量</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊规则</th>
+    <th>分值/每把</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">5</td>
+    <td align="center">0</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
+    <td align="center">无</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <th colspan=7 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0</th>
+    <th>1~2</th>
+    <th>3~4</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">-5</td>
+    <td align="center">0</td>
+    <td align="center">-1</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+*激光步枪是一种被军队、雇佣兵、商人、旅行者广泛采用的枪械，其保有了廉价常见的特性外，由于依靠热能进行杀伤而不是发射实弹，激光步枪有着备受赞誉的无后坐力优势，未经训练的平民也能具备较好的远距离射击精度。*
+
 #### 3.1.3 特殊武器
 
 ### 3.2 护甲
