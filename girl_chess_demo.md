@@ -468,6 +468,49 @@ Intelligence，Intel：情报值，表现了敌方对该单位的情报掌握程
 
 *一种非常常见的武器，工艺简单，造价低廉，威力也足以杀死大部分的步兵目标。*
 
+**冲锋枪**
+
+
+<table>
+  <tr>
+    <th>攻击数</th>
+    <th>穿甲</th>
+    <th>击穿伤害</th>
+    <th>后效伤害</th>
+    <th>特殊规则</th>
+    <th>分值/每把</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">-1</td>
+    <td align="center">1</td>
+    <td align="center">0</td>
+    <td align="center">无</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <th colspan=6 align="center">距离命中修正</th>
+  </tr>
+  <tr>
+    <th>距离</th>
+    <th>0~1</th>
+    <th>2</th>
+    <th>3</th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">命中修正</td>
+    <td align="center">+4</td>
+    <td align="center">+3</td>
+    <td align="center">+1</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+*冲锋枪设计用于近距离的交火，尽管手枪弹穿透能力有限，使用者可以通过倾泻弹药从而更容易命中敌人。*
+
 **激光步枪**
 
 <table>
